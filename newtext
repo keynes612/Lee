@@ -1,3 +1,5 @@
-123456789
-abcdefg
-int main
+#include<stdio.h>
+
+int main(){
+  printf("Hi");
+}
